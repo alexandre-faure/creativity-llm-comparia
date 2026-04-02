@@ -4,6 +4,8 @@ _A Comparative Study Using Real-World Data from compar:IA_
 
 **Master 2 Project – CentraleSupélec, Artificial Intelligence Specialization**
 
+Nathan Di Martino, Alexandre Faure, Mickaël Martinelli, Augustin Requeut
+
 ## **Project Overview**
 
 This repository contains the code, analysis, and deliverables for our **Master 2 project** at CentraleSupélec, focusing on **measuring the creativity of Large Language Models (LLMs)** using real-world user data from the **compar:IA** platform (Ministry of Culture, France).
@@ -60,22 +62,6 @@ We use three open datasets from **compar:IA** (Ministry of Culture, France), ava
 4. **Download datasets:**
    - Accept the terms of use on [Hugging Face](https://huggingface.co/collections/comparIA/jeux-de-donnees-compar-ia).
    - Place the datasets in the `data/` folder.
-
----
-
-## Key Deliverables
-
-| Deliverable | Description | Format |
-| ----------- | ----------- | ------ |
-|             |             |        |
-
-_To complete_
-
----
-
-## Methodology Highlights
-
-_To complete_
 
 ## References
 

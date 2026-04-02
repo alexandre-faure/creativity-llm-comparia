@@ -1,2 +1,10 @@
 pandas
 scikit-learn
+tqdm
+spacy
+tqdm
+nltk
+sklearn
+matplotlib
+termcolor
+scipy

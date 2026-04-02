@@ -70,5 +70,3 @@ Il nous semble que la valeur est certe importante, mais pas autant que la nouvea
 - $\alpha = 0.4$ (Nouveauté)
 - $\beta = 0.2$ (Valeur)
 - $\gamma = 0.4$ (Surprise)
-
-## Exercice 1: Fiabilité des jugements humains
